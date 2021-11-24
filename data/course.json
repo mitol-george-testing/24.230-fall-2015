@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "169f09f3-c08e-0af4-754a-b003ea0b87c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Meta-ethics",
+  "course_description": "This course considers a range of philosophical questions about the foundations of morality, such as whether and in what sense morality is objective, the nature of moral discourse, and how we can come to know right from wrong.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.230",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
